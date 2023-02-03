@@ -1,6 +1,11 @@
-// import TextButton from "./TextButton";
+import TextButton from "./TextButton";
 import HeaderBar  from "./HeaderBar";
-// import TextIconButton  from "./TextIconButton";
-// import Rating  from "./Rating";
+import TextIconButton  from "./TextIconButton";
 
-export {  HeaderBar }
+
+export {  
+    
+    HeaderBar,
+    TextButton,
+    TextIconButton
+ }
